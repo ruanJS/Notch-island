@@ -98,7 +98,7 @@ O Notch Island está começando, mas sua direção é clara: construir uma exper
 
 ## Para quem vive entre ferramentas
 
-O Notch Island foi pensado para desenvolvedores, designers, criadores, pesquisadores e equipes que usam IA como parte real do processo — não como uma ferramenta isolada.
+O Notch Island foi pensado para desenvolvedores, designers, criadores, pesquisadores e equipes que usam IA como parte real do processo não como uma ferramenta isolada.
 
 Para quem alterna entre modelos, sessões e plataformas durante o dia, ele funciona como uma visão contínua do todo. Sem criar mais uma obrigação. Sem pedir que você abandone o fluxo para descobrir onde está.
 
